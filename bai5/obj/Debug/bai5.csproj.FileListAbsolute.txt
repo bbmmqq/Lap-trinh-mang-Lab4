@@ -1,0 +1,13 @@
+D:\lab4\bai5\bai5\bin\Debug\bai5.exe.config
+D:\lab4\bai5\bai5\bin\Debug\bai5.exe
+D:\lab4\bai5\bai5\bin\Debug\bai5.pdb
+D:\lab4\bai5\bai5\bin\Debug\Newtonsoft.Json.dll
+D:\lab4\bai5\bai5\bin\Debug\Newtonsoft.Json.xml
+D:\lab4\bai5\bai5\obj\Debug\bai5.csproj.AssemblyReference.cache
+D:\lab4\bai5\bai5\obj\Debug\bai5.Form1.resources
+D:\lab4\bai5\bai5\obj\Debug\bai5.Properties.Resources.resources
+D:\lab4\bai5\bai5\obj\Debug\bai5.csproj.GenerateResource.cache
+D:\lab4\bai5\bai5\obj\Debug\bai5.csproj.CoreCompileInputs.cache
+D:\lab4\bai5\bai5\obj\Debug\bai5.csproj.Up2Date
+D:\lab4\bai5\bai5\obj\Debug\bai5.exe
+D:\lab4\bai5\bai5\obj\Debug\bai5.pdb
